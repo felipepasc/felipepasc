@@ -49,6 +49,3 @@ Desenvolvi um servidor multiplayer dentro do jogo Minecraft para a organização
 
 ## Contato
 - **Email:** [fepaschoalbergamo2007@gmail.com](mailto:fepaschoalbergamo2007@gmail.com)
-
-## Licença
-Este projeto está licenciado sob a Licença MIT - veja o arquivo [LICENSE](LICENSE) para mais detalhes.
