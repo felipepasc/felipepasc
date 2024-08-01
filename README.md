@@ -41,7 +41,7 @@ Desenvolvi um sistema de correção de gabaritos para minha escola. Este sistema
 - **Comunicação:** WebSocket
 - **Frontend:** HTML5, Bootstrap, jQuery, Axios
 
-### Servidor Multiplayer para Minecraft
+### Servidor Multiplayer de Minecraft
 Desenvolvi um servidor multiplayer dentro do jogo Minecraft para a organização **fantasyorg**. Este servidor possui:
 - Arquitetura auto escalável
 - Uso de nodes para gerenciamento eficiente
